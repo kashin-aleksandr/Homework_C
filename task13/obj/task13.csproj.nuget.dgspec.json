@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kashinayu/Desktop/Education/Homework_C/task13/task13.csproj": {}
+  },
+  "projects": {
+    "/Users/kashinayu/Desktop/Education/Homework_C/task13/task13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kashinayu/Desktop/Education/Homework_C/task13/task13.csproj",
+        "projectName": "task13",
+        "projectPath": "/Users/kashinayu/Desktop/Education/Homework_C/task13/task13.csproj",
+        "packagesPath": "/Users/kashinayu/.nuget/packages/",
+        "outputPath": "/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kashinayu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/kashinayu/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

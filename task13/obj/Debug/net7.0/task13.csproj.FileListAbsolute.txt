@@ -1,0 +1,15 @@
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.csproj.AssemblyReference.cache
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.AssemblyInfoInputs.cache
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.AssemblyInfo.cs
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.csproj.CoreCompileInputs.cache
+/Users/kashinayu/Desktop/Education/Homework_C/task13/bin/Debug/net7.0/task13
+/Users/kashinayu/Desktop/Education/Homework_C/task13/bin/Debug/net7.0/task13.deps.json
+/Users/kashinayu/Desktop/Education/Homework_C/task13/bin/Debug/net7.0/task13.runtimeconfig.json
+/Users/kashinayu/Desktop/Education/Homework_C/task13/bin/Debug/net7.0/task13.dll
+/Users/kashinayu/Desktop/Education/Homework_C/task13/bin/Debug/net7.0/task13.pdb
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.dll
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/refint/task13.dll
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.pdb
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/task13.genruntimeconfig.cache
+/Users/kashinayu/Desktop/Education/Homework_C/task13/obj/Debug/net7.0/ref/task13.dll
