@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Кашин Александр\\.nuget\\packages\\": {}
+    "/Users/kashinayu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Обучение\\GB\\C_Sharp\\Homework_C\\task2\\task2.csproj",
+      "projectUniqueName": "/Users/kashinayu/Desktop/Education/Homework_C/task2/task2.csproj",
       "projectName": "task2",
-      "projectPath": "D:\\Обучение\\GB\\C_Sharp\\Homework_C\\task2\\task2.csproj",
-      "packagesPath": "C:\\Users\\Кашин Александр\\.nuget\\packages\\",
-      "outputPath": "D:\\Обучение\\GB\\C_Sharp\\Homework_C\\task2\\obj\\",
+      "projectPath": "/Users/kashinayu/Desktop/Education/Homework_C/task2/task2.csproj",
+      "packagesPath": "/Users/kashinayu/.nuget/packages/",
+      "outputPath": "/Users/kashinayu/Desktop/Education/Homework_C/task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Кашин Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kashinayu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/kashinayu/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
