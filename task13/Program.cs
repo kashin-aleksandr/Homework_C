@@ -1,7 +1,7 @@
 ﻿Console.Clear();
 Console.WriteLine("Введите число: ");
 int num = Int32.Parse(Console.ReadLine()!);
-int result = -1; 
+int result = 0; 
 if (num >= 100){
     while (num > 999){
         num = num / 10;
