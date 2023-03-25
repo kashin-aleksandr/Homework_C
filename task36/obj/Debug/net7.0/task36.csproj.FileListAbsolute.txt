@@ -1,0 +1,15 @@
+D:\Обучение\GB\C_Sharp\Homework_C\task36\bin\Debug\net7.0\task36.exe
+D:\Обучение\GB\C_Sharp\Homework_C\task36\bin\Debug\net7.0\task36.deps.json
+D:\Обучение\GB\C_Sharp\Homework_C\task36\bin\Debug\net7.0\task36.runtimeconfig.json
+D:\Обучение\GB\C_Sharp\Homework_C\task36\bin\Debug\net7.0\task36.dll
+D:\Обучение\GB\C_Sharp\Homework_C\task36\bin\Debug\net7.0\task36.pdb
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.csproj.AssemblyReference.cache
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.dll
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\refint\task36.dll
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.pdb
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\task36.genruntimeconfig.cache
+D:\Обучение\GB\C_Sharp\Homework_C\task36\obj\Debug\net7.0\ref\task36.dll
