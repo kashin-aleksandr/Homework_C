@@ -1,0 +1,15 @@
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\bin\Debug\net7.0\task41.exe
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\bin\Debug\net7.0\task41.deps.json
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\bin\Debug\net7.0\task41.runtimeconfig.json
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\bin\Debug\net7.0\task41.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\bin\Debug\net7.0\task41.pdb
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.csproj.AssemblyReference.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.AssemblyInfoInputs.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.AssemblyInfo.cs
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.csproj.CoreCompileInputs.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\refint\task41.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.pdb
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\task41.genruntimeconfig.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task41\obj\Debug\net7.0\ref\task41.dll
