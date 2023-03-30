@@ -1,0 +1,15 @@
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\bin\Debug\net7.0\task43.exe
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\bin\Debug\net7.0\task43.deps.json
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\bin\Debug\net7.0\task43.runtimeconfig.json
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\bin\Debug\net7.0\task43.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\bin\Debug\net7.0\task43.pdb
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.csproj.AssemblyReference.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\refint\task43.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.pdb
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\task43.genruntimeconfig.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task43\obj\Debug\net7.0\ref\task43.dll
