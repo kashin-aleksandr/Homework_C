@@ -1,0 +1,15 @@
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\bin\Debug\net7.0\task54.exe
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\bin\Debug\net7.0\task54.deps.json
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\bin\Debug\net7.0\task54.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\bin\Debug\net7.0\task54.pdb
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\refint\task54.dll
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.pdb
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+C:\Users\a.v.kashin\Desktop\tests\Homework_C\task54\obj\Debug\net7.0\ref\task54.dll
