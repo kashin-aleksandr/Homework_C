@@ -1,10 +1,20 @@
-﻿void ArrayWithRandomNums(int[,] array){
-    for (int i = 0; i < array.GetLength(0); i++){
-        for (int j = 0; j < array.GetLength(1); j++){
-            array[i, j] = new Random().Next(1, 31);
-        }
-    }
-}
+﻿Console.Clear();
+Console.Write("Введите количество строк: ");
+int lines = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество столбцов: ");
+int colums = Convert.ToInt32(Console.ReadLine());
+Console.Write("Укажите диапазон чисел в массиве от 1 до: ");
+int range = Convert.ToInt32(Console.ReadLine());
+
+int[,] array = new int[lines, colums];
+CreateArray(array);
+Console.WriteLine();
+Console.WriteLine("Первоначальный список: ");
+WriteArray(array);
+SortNumbers(array);
+Console.WriteLine();
+Console.WriteLine("Отсортированный список: ");
+PrintArray(array);
 
 void SortNumbers(int[,] array){
     for (int i = 0; i < array.GetLength(0); i++){
@@ -19,7 +29,6 @@ void SortNumbers(int[,] array){
         }
     }
 }
-
 void PrintArray(int[,] array){
     for (int i = 0; i < array.GetLength(0); i++){
         for (int j = 0; j < array.GetLength(1); j++){
@@ -29,10 +38,20 @@ void PrintArray(int[,] array){
     }
 }
 
-Console.Clear();
-int[,] ColumsRaws = new int[3, 4];
-ArrayWithRandomNums(ColumsRaws);
-PrintArray(ColumsRaws);
-SortNumbers(ColumsRaws);
-Console.WriteLine();
-PrintArray(ColumsRaws);
+
+void CreateArray(int[,] array){
+  for (int i = 0; i < array.GetLength(0); i++){
+    for (int j = 0; j < array.GetLength(1); j++){
+      array[i, j] = new Random().Next(range);
+    }
+  }
+}
+
+void WriteArray (int[,] array){
+  for (int i = 0; i < array.GetLength(0); i++){
+    for (int j = 0; j < array.GetLength(1); j++){
+      Console.Write(array[i,j] + " ");
+    }
+    Console.WriteLine();
+  }
+}
